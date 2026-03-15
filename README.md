@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Ozcan Celik
 
-<!--
-**ozcanceliksf/ozcanceliksf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Security student at Santa Fe College interested in Technical Support, Help Desk, Networking, and Cybersecurity.
 
-Here are some ideas to get you started:
+## Focus Areas
+- Technical Support
+- Help Desk
+- Networking Fundamentals
+- Cybersecurity Coursework
+- Hands-on Labs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Work
+- Building networking and cybersecurity lab repositories
+- Documenting coursework and technical notes
+- Preparing for IT Support and cybersecurity opportunities
+
+## Tools and Technologies
+- Cisco Packet Tracer
+- Windows
+- Linux
+- VirtualBox
+- Microsoft Office
+- Google Workspace
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/ozcanceliksf
