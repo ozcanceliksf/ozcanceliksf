@@ -1,4 +1,3 @@
-[profile-README (2).md](https://github.com/user-attachments/files/26041142/profile-README.2.md)
 # Hi, I'm Ozcan Celik 👋
 
 IT Security student at Santa Fe College focused on hands-on cybersecurity, networking, and technical support.
