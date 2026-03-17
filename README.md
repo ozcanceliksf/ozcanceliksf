@@ -1,81 +1,83 @@
+[profile-README (1).md](https://github.com/user-attachments/files/26040496/profile-README.1.md)
 # Hi, I'm Ozcan Celik 👋
 
-**IT Security Student** at Santa Fe College | Technical Support | Help Desk | Networking | Cybersecurity
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ozcanceliksf)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FFE7?style=flat&logo=github&logoColor=black)](https://ozcanceliksf.github.io)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ozcanceliksf)
+IT Security student at Santa Fe College focused on hands-on cybersecurity, networking, and technical support.
 
 ---
 
-## 🎯 About Me
+## 🎯 Current Focus
 
-- 🎓 A.S. in IT Security @ Santa Fe College — GPA: **3.28** — Expected 2027
-- 🔍 Seeking **CPT-eligible IT Support / Help Desk / Cybersecurity internship**
-- 🌍 Based in **Jacksonville, FL**
-- 🛡️ Currently completing **TryHackMe Pre-Security** path & **HTB Academy**
-- 📜 Working toward **CompTIA Network+** and **ISC2 CC** certifications
-- 🗣️ Languages: **Turkish** (native) · **English** (professional)
+- Completing **A.S. in IT Security** at Santa Fe College (Expected 2027)
+- Practicing CTF challenges on **TryHackMe** and **picoCTF**
+- Building lab repositories for networking, ethical hacking, and security coursework
+- Preparing for IT Support & cybersecurity internship opportunities (CPT Eligible)
 
 ---
 
-## 🧰 Skills & Tools
+## 🏆 TryHackMe
 
-**IT Support**
-`Hardware Troubleshooting` `Desktop/Laptop Setup` `Printer Config` `Technical Documentation`
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ozcanceliksf.png)](https://tryhackme.com/p/ozcanceliksf)
 
-**Networking**
-`TCP/IP` `IP Addressing` `Subnetting` `OSI Model` `Routing & Switching` `Cisco Packet Tracer`
-
-**Systems**
-`Windows OS` `Linux CLI` `VirtualBox` `Active Directory` `SQL Basics`
-
-**Development**
-`Python` `Git` `GitHub` `VS Code`
+| Stat | Value |
+|------|-------|
+| 🏅 Rank | **SEEKER** |
+| 🌍 Global | **Top 35%** |
+| 🚪 Rooms Completed | **16** |
+| 🎖️ Badges | **3** (Webbed, World Wide Web, cat linux.txt) |
+| 📚 Path | Pre-Security (~52% complete) |
 
 ---
 
-## 📂 Featured Projects
+## 🚩 picoCTF — Solved Challenges
+
+| Challenge | Category | Technique |
+|-----------|----------|-----------|
+| Riddle Registry | Forensics | PDF metadata · Base64 decoding |
+| Log Hunt | General Skills | Log analysis · Flag reconstruction |
+| Hidden in Plainsight | Forensics | Steganography · Steghide · Hex decode |
+| Corrupted File | Forensics | JPEG magic bytes repair · File signatures |
+| Crack the Gate 1 | Web Exploitation | ROT13 · HTTP header injection · curl |
+| SSTI Challenge | Web Exploitation | Jinja2 SSTI · Remote code execution |
+
+---
+
+## 🛠️ Tools & Technologies
+
+**Networking:** Cisco Packet Tracer · Wireshark · TCP/IP · Subnetting  
+**Security:** Nmap · Metasploit · Burp Suite · Steghide · Kali Linux  
+**Systems:** Linux CLI · Windows Server · VirtualBox · Active Directory  
+**Programming:** Python · HTML/CSS · Bash  
+**Support:** Help Desk · Ticketing Systems · Remote Desktop · Microsoft 365
+
+---
+
+## 📁 Repositories
 
 | Repo | Description |
 |------|-------------|
-| [🔒 Cybersecurity Course Notes](https://github.com/ozcanceliksf/cybersecurity-course-notes) | Security concepts, threats, and risk mitigation |
-| [🌐 Networking Fundamentals Labs](https://github.com/ozcanceliksf/networking-fundamentals-labs) | IP addressing, subnetting, routing with Packet Tracer |
-| [🐍 Python Programming COP2002](https://github.com/ozcanceliksf/python-programming-cop2002) | IRS Calculator, MAC Generator, UNO Card Identifier |
-| [💻 VirtualBox & Linux Practice](https://github.com/ozcanceliksf/virtualbox-linux-windows-practice) | VM setup, Linux CLI, Windows administration |
-| [🛠️ Technical Support Projects](https://github.com/ozcanceliksf/technical-support-projects) | Troubleshooting docs, help desk checklists |
+| [networking-fundamentals-labs](https://github.com/ozcanceliksf/networking-fundamentals-labs) | Cisco Packet Tracer labs — IP, subnetting, routing |
+| [cybersecurity-course-notes](https://github.com/ozcanceliksf/cybersecurity-course-notes) | Security fundamentals, threats, risk mitigation |
+| [virtualbox-linux-windows-practice](https://github.com/ozcanceliksf/virtualbox-linux-windows-practice) | VM labs — Linux CLI, Windows admin |
+| [technical-support-projects](https://github.com/ozcanceliksf/technical-support-projects) | Help desk docs, troubleshooting notes |
+| [python-programming-cop2002](https://github.com/ozcanceliksf/python-programming-cop2002) | Python coursework — COP2002 |
+| [ethical-hacking-cis2352](https://github.com/ozcanceliksf/ethical-hacking-cis2352) | Ethical hacking labs — CIS2352 |
+| [computer-network-security-cet2661c](https://github.com/ozcanceliksf/computer-network-security-cet2661c) | Security+ aligned labs — CET2661C |
+| [resume-and-career-docs](https://github.com/ozcanceliksf/resume-and-career-docs) | Resume and career materials |
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ozcanceliksf&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ffe7&icon_color=00ffe7&text_color=a0a0b8)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozcanceliksf&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ffe7&text_color=a0a0b8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ozcanceliksf&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0c0c10&title_color=00ffe7&icon_color=00ffe7&text_color=a0a0b8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozcanceliksf&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0c0c10&title_color=00ffe7&text_color=a0a0b8)
 
 ---
 
-## 🏆 Certifications
+## 🔗 Connect
 
-| Certification | Status |
-|--------------|--------|
-| CompTIA Network+ | 🔄 In Progress |
-| ISC2 Certified in Cybersecurity (CC) | 🔄 In Progress |
-| Amateur Sailor's License | ✅ Active |
-| Short Range Radio Operator License | ✅ Active |
-| IHA-0 Drone Pilot Credential | ✅ Active |
+- 💼 [LinkedIn](https://www.linkedin.com/in/ozcanceliksf)
+- 🌐 [Portfolio](https://ozcanceliksf.github.io)
+- 🎯 [TryHackMe](https://tryhackme.com/p/ozcanceliksf)
+- 🚩 [picoCTF](https://play.picoctf.org/users/ozcanceliksf)
 
----
-
-## 🧪 Cyber Platforms
-
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/ozcanceliksf.png)](https://tryhackme.com/p/ozcanceliksf)
-
-| Platform | Status | Profile |
-|----------|--------|---------|
-| TryHackMe | 🟢 Active — Pre-Security Path | [View](https://tryhackme.com/p/ozcanceliksf) |
-| HackTheBox Academy | 🟢 Active — Intro to Academy | [View](https://app.hackthebox.com/profile/ozcanceliksf) |
-| PicoCTF | 🟢 Active | [View](https://play.picoctf.org/users/ozcanceliksf) |
-
----
-
-*📫 Reach me: ozcan.celik@go.sfcollege.edu · ozcan@c72.org*
+📍 Jacksonville, FL · CPT Eligible · Open to Internships
