@@ -12,7 +12,7 @@ IT Security student at Santa Fe College focused on hands-on cybersecurity, ethic
 ---
 
 ## 🏆 TryHackMe
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ozcanceliksf.png)](https://tryhackme.com/p/ozcanceliksf)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ozcanceliksf.png?v=2)](https://tryhackme.com/p/ozcanceliksf)
 
 | Stat | Value |
 |------|-------|
